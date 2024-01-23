@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://f4mct4wssyrp"]
+
+[ext_resource type="Script" path="res://scripts/canvas_calculation.cs" id="1_5qs3w"]
+
+[node name="canvas_calculation" type="Node"]
+script = ExtResource("1_5qs3w")
